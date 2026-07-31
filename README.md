@@ -64,4 +64,4 @@ Full OmniDROP gateway/crypto, production secrets, and private monorepo sources. 
 
 ## License
 
-Apache-2.0 for this public proof repository. Product and patent rights remain with Intentionize, LLC / Offerboard as applicable.
+**All rights reserved.** Source is available for XPRIZE / Circle prize verification and personal non-commercial evaluation only — see [`LICENSE`](./LICENSE). Product and patent rights remain with Intentionize, LLC / Offerboard as applicable.
