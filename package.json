@@ -1,0 +1,28 @@
+{
+  "name": "omnidrop-agentic-commerce",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Public proof: OmniDROP agents make/receive USDC via Circle Agent Stack, bound to sealed commercial packages.",
+  "type": "module",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "demo:subscription": "tsx scripts/demo-subscription-cycle.ts",
+    "demo:subscription:dry": "tsx scripts/demo-subscription-cycle.ts --dry-run",
+    "demo:film": "tsx scripts/demo-film-take.ts",
+    "wallet:status": "bash scripts/wallet-status.sh",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test src/**/*.test.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "viem": "^2.55.10"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
