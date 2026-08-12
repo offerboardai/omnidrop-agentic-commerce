@@ -2,7 +2,11 @@
 
 Public proof for the [Circle Agentic Economy Prize](https://xprize.devpost.com/) (Build with Gemini XPRIZE bonus).
 
+**Team:** John A. Ananian, CTO (inventor on multiple granted U.S. patents; built the product with AI) · William Nahm, CEO (Harvard Business degree).
+
 AI agents **make and receive USDC** via [Circle Agent Stack](https://developers.circle.com/agent-stack), bound to a sealed commercial package hash — not a human clicking Pay.
+
+The sealed package is the contract (work, rules, bill). Circle moves the dollars. No human Pay click, no card in a prompt. That rail is integral to OmniDROP’s agentic product, not a bolt-on wallet demo.
 
 Live product: [www.omnidrop.com](https://www.omnidrop.com) · Patent context: [U.S. #8,386,288 B2](https://patents.google.com/patent/US8386288B2/en) (workflow package exchange between drop-box programs). Circle/USDC settlement is not claimed under that patent.
 
@@ -26,6 +30,7 @@ Amount:               0.01 USDC
 Tx hash:              0x068c38b199f36fd4b2ea9425c66c69a324287459dc07413e671cb815976a2022
 Block explorer URL:   https://sepolia.basescan.org/tx/0x068c38b199f36fd4b2ea9425c66c69a324287459dc07413e671cb815976a2022
 Demo video:           <PASTE when recorded>
+Devpost project:      <PASTE public Devpost URL when available>
 ```
 
 ---
@@ -35,6 +40,7 @@ Demo video:           <PASTE when recorded>
 ```bash
 npm install
 cp .env.example .env
+npm test                         # local spend policy (per-tx, per-day, allowlist)
 npm run demo:subscription:dry    # policy + package bind (no chain)
 ```
 
