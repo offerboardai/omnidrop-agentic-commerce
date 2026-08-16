@@ -27,8 +27,8 @@ Buyer Agent Wallet:   0x6b9bd993a86396b050faeed1688eb085cda10d2c
 Seller Agent Wallet:  0x96729c9cacfd030fec6906184af65f4c171ba1db
 Chain:                BASE-SEPOLIA
 Amount:               0.01 USDC
-Tx hash:              0x068c38b199f36fd4b2ea9425c66c69a324287459dc07413e671cb815976a2022
-Block explorer URL:   https://sepolia.basescan.org/tx/0x068c38b199f36fd4b2ea9425c66c69a324287459dc07413e671cb815976a2022
+Tx hash:              0xeda2ce6aa6f68ad1fce6607e2e572052cc104e1f47bc20e52d2c28f2402a0dda
+Block explorer URL:   https://sepolia.basescan.org/tx/0xeda2ce6aa6f68ad1fce6607e2e572052cc104e1f47bc20e52d2c28f2402a0dda
 Demo video:           <PASTE when recorded>
 Devpost project:      <PASTE public Devpost URL when available>
 ```
