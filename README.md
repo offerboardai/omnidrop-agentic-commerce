@@ -18,7 +18,7 @@ Live product: [www.omnidrop.com](https://www.omnidrop.com) · Patent context: [U
 |-------------|--------|
 | Circle Agent Stack pay/receive | ✅ Agent Wallets + confirmed USDC transfer (BASE-SEPOLIA) |
 | Public GitHub (this repo) | ✅ |
-| Recorded demo of real USDC tx | ⏳ Add video URL below when published |
+| Recorded demo of real USDC tx | ✅ [Circle Video 2](https://www.youtube.com/watch?v=oQgunU9ePCM) |
 | Agent wallet + block-explorer URL | ✅ Below |
 | Agent-driven (no human checkout) | ✅ Circle CLI Agent Wallet transfer |
 
@@ -29,7 +29,7 @@ Chain:                BASE-SEPOLIA
 Amount:               0.01 USDC
 Tx hash:              0xeda2ce6aa6f68ad1fce6607e2e572052cc104e1f47bc20e52d2c28f2402a0dda
 Block explorer URL:   https://sepolia.basescan.org/tx/0xeda2ce6aa6f68ad1fce6607e2e572052cc104e1f47bc20e52d2c28f2402a0dda
-Demo video:           <PASTE when recorded>
+Demo video:           https://www.youtube.com/watch?v=oQgunU9ePCM
 Devpost project:      <PASTE public Devpost URL when available>
 ```
 
